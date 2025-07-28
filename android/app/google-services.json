@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "47428278627",
+    "project_id": "burki-book",
+    "storage_bucket": "burki-book.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47428278627:android:51fc90957b585d8ecf9b56",
+        "android_client_info": {
+          "package_name": "com.example.burki_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3tfmJs2gmdT0CkeHcBKnrBTCe6khrZ4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
